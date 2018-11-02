@@ -1,0 +1,30 @@
+body {
+    color: white;
+    font-size: 22px;
+    background-image: url("../images/crystal-ball.jpg");
+    background-position: center;
+    background-size: 85%;
+}
+
+
+
+h1 {
+    text-align: center;
+    margin-top: 125px;
+    text-shadow: 2px 2px 8px black;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+}
+
+h4 {
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+}
+
+p {
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+}
